@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=dontk1llme&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dontk1llme&layout=compact&theme=material-palenight)
-<!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BoYeonJang&layout=compact&theme=material-palenight) -->
+<!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dontk1llme&layout=compact&theme=material-palenight) -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23757575&title_bg=%23C86BE0&icon=aerlingus.svg&icon_color=%2365DE5C&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:letm2go@gmail.com)
 
