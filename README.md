@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dontk1llme&layout=compact&theme=material-palenight)
 <!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dontk1llme&layout=compact&theme=material-palenight) -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23757575&title_bg=%23C86BE0&icon=aerlingus.svg&icon_color=%2365DE5C&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdontk1llme%2Fhit-counter&count_bg=%23C13DC8&title_bg=%23555555&icon=youtubegaming.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
   
 
